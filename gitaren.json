@@ -9,12 +9,10 @@
         "imageURL": "https://example.com/images/fender_stratocaster.jpg",
         "type": "elektrisch",
         "hobby's": ["blues", "rock", "jazz"],
-        "details": {
-            "id": 101,
-            "materiaal": "esdoorn",
-            "aantalSnaren": 6,
-            "kleur": "sunburst",
-            "imageURL": "https://example.com/images/fender_stratocaster_details.jpg"
+        "brand": {
+            "merknaam": "Fender",
+            "website": "https://www.fender.com",
+            "land": "Verenigde Staten"
         }
     },
     {
@@ -27,12 +25,10 @@
         "imageURL": "https://example.com/images/gibson_les_paul.jpg",
         "type": "elektrisch",
         "hobby's": ["rock", "metal", "blues"],
-        "details": {
-            "id": 102,
-            "materiaal": "mahonie",
-            "aantalSnaren": 6,
-            "kleur": "honingbruin",
-            "imageURL": "https://example.com/images/gibson_les_paul_details.jpg"
+        "brand": {
+            "merknaam": "Gibson",
+            "website": "https://www.gibson.com",
+            "land": "Verenigde Staten"
         }
     },
     {
@@ -45,12 +41,10 @@
         "imageURL": "https://example.com/images/martin_d28.jpg",
         "type": "akoestisch",
         "hobby's": ["country", "folk", "bluegrass"],
-        "details": {
-            "id": 103,
-            "materiaal": "spar",
-            "aantalSnaren": 6,
-            "kleur": "natuurlijk",
-            "imageURL": "https://example.com/images/martin_d28_details.jpg"
+        "brand": {
+            "merknaam": "Martin",
+            "website": "https://www.martinguitar.com",
+            "land": "Verenigde Staten"
         }
     },
     {
@@ -63,12 +57,10 @@
         "imageURL": "https://example.com/images/ibanez_rg550.jpg",
         "type": "elektrisch",
         "hobby's": ["metal", "hardrock", "shred"],
-        "details": {
-            "id": 104,
-            "materiaal": "linden",
-            "aantalSnaren": 6,
-            "kleur": "blauw",
-            "imageURL": "https://example.com/images/ibanez_rg550_details.jpg"
+        "brand": {
+            "merknaam": "Ibanez",
+            "website": "https://www.ibanez.com",
+            "land": "Japan"
         }
     },
     {
@@ -81,12 +73,10 @@
         "imageURL": "https://example.com/images/taylor_814ce.jpg",
         "type": "akoestisch",
         "hobby's": ["folk", "pop", "singer-songwriter"],
-        "details": {
-            "id": 105,
-            "materiaal": "sitka spar",
-            "aantalSnaren": 6,
-            "kleur": "natuurlijk",
-            "imageURL": "https://example.com/images/taylor_814ce_details.jpg"
+        "brand": {
+            "merknaam": "Taylor",
+            "website": "https://www.taylorguitars.com",
+            "land": "Verenigde Staten"
         }
     },
     {
@@ -99,12 +89,10 @@
         "imageURL": "https://example.com/images/prs_custom_24.jpg",
         "type": "elektrisch",
         "hobby's": ["rock", "jazz", "fusion"],
-        "details": {
-            "id": 106,
-            "materiaal": "mahonie",
-            "aantalSnaren": 6,
-            "kleur": "paars",
-            "imageURL": "https://example.com/images/prs_custom_24_details.jpg"
+        "brand": {
+            "merknaam": "PRS",
+            "website": "https://www.prsguitars.com",
+            "land": "Verenigde Staten"
         }
     },
     {
@@ -117,12 +105,10 @@
         "imageURL": "https://example.com/images/yamaha_fg800.jpg",
         "type": "akoestisch",
         "hobby's": ["pop", "folk", "beginners"],
-        "details": {
-            "id": 107,
-            "materiaal": "spar",
-            "aantalSnaren": 6,
-            "kleur": "natuurlijk",
-            "imageURL": "https://example.com/images/yamaha_fg800_details.jpg"
+        "brand": {
+            "merknaam": "Yamaha",
+            "website": "https://www.yamaha.com",
+            "land": "Japan"
         }
     },
     {
@@ -135,12 +121,10 @@
         "imageURL": "https://example.com/images/esp_eii_horizon.jpg",
         "type": "elektrisch",
         "hobby's": ["metal", "hardrock", "shred"],
-        "details": {
-            "id": 108,
-            "materiaal": "mahonie",
-            "aantalSnaren": 6,
-            "kleur": "zwart",
-            "imageURL": "https://example.com/images/esp_eii_horizon_details.jpg"
+        "brand": {
+            "merknaam": "ESP",
+            "website": "https://www.espguitars.com",
+            "land": "Japan"
         }
     },
     {
@@ -153,12 +137,10 @@
         "imageURL": "https://example.com/images/gretsch_g5422t.jpg",
         "type": "semi-akoestisch",
         "hobby's": ["jazz", "rockabilly", "blues"],
-        "details": {
-            "id": 109,
-            "materiaal": "esdoorn",
-            "aantalSnaren": 6,
-            "kleur": "oranje",
-            "imageURL": "https://example.com/images/gretsch_g5422t_details.jpg"
+        "brand": {
+            "merknaam": "Gretsch",
+            "website": "https://www.gretschguitars.com",
+            "land": "Verenigde Staten"
         }
     },
     {
@@ -171,12 +153,10 @@
         "imageURL": "https://example.com/images/epiphone_casino.jpg",
         "type": "elektrisch",
         "hobby's": ["rock", "blues", "pop"],
-        "details": {
-            "id": 110,
-            "materiaal": "esdoorn",
-            "aantalSnaren": 6,
-            "kleur": "natuurlijk",
-            "imageURL": "https://example.com/images/epiphone_casino_details.jpg"
+        "brand": {
+            "merknaam": "Epiphone",
+            "website": "https://www.epiphone.com",
+            "land": "Verenigde Staten"
         }
     }
 ]
