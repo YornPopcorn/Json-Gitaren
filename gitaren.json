@@ -6,7 +6,7 @@
         "age": 67,
         "active": true,
         "usageDate": "1954-10-15",
-        "imageURL": "https://example.com/images/fender_stratocaster.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/fenderStrat.webp",
         "type": "electric",
         "genre": ["blues", "rock", "jazz"],
         "brand": {
@@ -24,7 +24,7 @@
         "age": 70,
         "active": true,
         "usageDate": "1952-01-01",
-        "imageURL": "https://example.com/images/gibson_les_paul.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/lesPaulGibson.webp",
         "type": "electric",
         "genre": ["rock", "metal", "blues"],
         "brand": {
@@ -42,7 +42,7 @@
         "age": 85,
         "active": true,
         "usageDate": "1931-01-01",
-        "imageURL": "https://example.com/images/martin_d28.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/d-28Martin.webp",
         "type": "acoustic",
         "genre": ["country", "folk", "bluegrass"],
         "brand": {
@@ -60,7 +60,7 @@
         "age": 35,
         "active": true,
         "usageDate": "1987-01-01",
-        "imageURL": "https://example.com/images/ibanez_rg550.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/rg550Ibanez.webp",
         "type": "electric",
         "genre": ["metal", "hard rock", "shred"],
         "brand": {
@@ -78,7 +78,7 @@
         "age": 25,
         "active": true,
         "usageDate": "1999-01-01",
-        "imageURL": "https://example.com/images/taylor_814ce.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/814ceTaylor.webp",
         "type": "acoustic",
         "genre": ["folk", "pop", "singer-songwriter"],
         "brand": {
@@ -96,7 +96,7 @@
         "age": 38,
         "active": true,
         "usageDate": "1985-01-01",
-        "imageURL": "https://example.com/images/prs_custom_24.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/custom24PRS.webp",
         "type": "electric",
         "genre": ["rock", "jazz", "fusion"],
         "brand": {
@@ -114,7 +114,7 @@
         "age": 10,
         "active": true,
         "usageDate": "2013-01-01",
-        "imageURL": "https://example.com/images/yamaha_fg800.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/FG800Yamaha.webp",
         "type": "acoustic",
         "genre": ["pop", "folk", "beginners"],
         "brand": {
@@ -132,7 +132,7 @@
         "age": 15,
         "active": true,
         "usageDate": "2008-01-01",
-        "imageURL": "https://example.com/images/esp_eii_horizon.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/ESP%20E-II%20Horizon.webp",
         "type": "electric",
         "genre": ["metal", "hard rock", "shred"],
         "brand": {
@@ -150,7 +150,7 @@
         "age": 20,
         "active": true,
         "usageDate": "2003-01-01",
-        "imageURL": "https://example.com/images/gretsch_g5422t.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Gretsch%20G5422T.webp",
         "type": "semi-acoustic",
         "genre": ["jazz", "rockabilly", "blues"],
         "brand": {
@@ -168,7 +168,7 @@
         "age": 60,
         "active": true,
         "usageDate": "1961-01-01",
-        "imageURL": "https://example.com/images/epiphone_casino.jpg",
+        "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Epiphone%20Casino.webp",
         "type": "electric",
         "genre": ["rock", "blues", "pop"],
         "brand": {
