@@ -1,162 +1,182 @@
 [
     {
         "id": 1,
-        "naam": "Fender Stratocaster",
-        "beschrijving": "De Fender Stratocaster is een van de meest iconische elektrische gitaren ter wereld, bekend om zijn veelzijdige geluid en comfortabele speelstijl.",
-        "leeftijd": 67,
-        "actief": true,
-        "gebruiksDatum": "1954-10-15",
+        "name": "Fender Stratocaster",
+        "description": "The Fender Stratocaster is one of the most iconic electric guitars in the world, known for its versatile sound and comfortable playability.",
+        "age": 67,
+        "active": true,
+        "usageDate": "1954-10-15",
         "imageURL": "https://example.com/images/fender_stratocaster.jpg",
-        "type": "elektrisch",
-        "hobby's": ["blues", "rock", "jazz"],
+        "type": "electric",
+        "genre": ["blues", "rock", "jazz"],
         "brand": {
-            "merknaam": "Fender",
+            "brandName": "Fender",
             "website": "https://www.fender.com",
-            "land": "Verenigde Staten"
+            "country": "United States",
+            "id": 101,
+            "yearFounded": 1946
         }
     },
     {
         "id": 2,
-        "naam": "Gibson Les Paul",
-        "beschrijving": "De Gibson Les Paul staat bekend om zijn rijke, warme tonen en is een favoriet onder rockgitaristen.",
-        "leeftijd": 70,
-        "actief": true,
-        "gebruiksDatum": "1952-01-01",
+        "name": "Gibson Les Paul",
+        "description": "The Gibson Les Paul is known for its rich, warm tones and is a favorite among rock guitarists.",
+        "age": 70,
+        "active": true,
+        "usageDate": "1952-01-01",
         "imageURL": "https://example.com/images/gibson_les_paul.jpg",
-        "type": "elektrisch",
-        "hobby's": ["rock", "metal", "blues"],
+        "type": "electric",
+        "genre": ["rock", "metal", "blues"],
         "brand": {
-            "merknaam": "Gibson",
+            "brandName": "Gibson",
             "website": "https://www.gibson.com",
-            "land": "Verenigde Staten"
+            "country": "United States",
+            "id": 102,
+            "yearFounded": 1902
         }
     },
     {
         "id": 3,
-        "naam": "Martin D-28",
-        "beschrijving": "De Martin D-28 is een akoestische gitaar die bekend staat om zijn krachtige, heldere geluid en wordt veel gebruikt in country en folk muziek.",
-        "leeftijd": 85,
-        "actief": true,
-        "gebruiksDatum": "1931-01-01",
+        "name": "Martin D-28",
+        "description": "The Martin D-28 is an acoustic guitar known for its powerful, bright sound and is widely used in country and folk music.",
+        "age": 85,
+        "active": true,
+        "usageDate": "1931-01-01",
         "imageURL": "https://example.com/images/martin_d28.jpg",
-        "type": "akoestisch",
-        "hobby's": ["country", "folk", "bluegrass"],
+        "type": "acoustic",
+        "genre": ["country", "folk", "bluegrass"],
         "brand": {
-            "merknaam": "Martin",
+            "brandName": "Martin",
             "website": "https://www.martinguitar.com",
-            "land": "Verenigde Staten"
+            "country": "United States",
+            "id": 103,
+            "yearFounded": 1833
         }
     },
     {
         "id": 4,
-        "naam": "Ibanez RG550",
-        "beschrijving": "De Ibanez RG550 is een populaire keuze onder metalgitaristen vanwege zijn snelle hals en agressieve geluid.",
-        "leeftijd": 35,
-        "actief": true,
-        "gebruiksDatum": "1987-01-01",
+        "name": "Ibanez RG550",
+        "description": "The Ibanez RG550 is a popular choice among metal guitarists due to its fast neck and aggressive sound.",
+        "age": 35,
+        "active": true,
+        "usageDate": "1987-01-01",
         "imageURL": "https://example.com/images/ibanez_rg550.jpg",
-        "type": "elektrisch",
-        "hobby's": ["metal", "hardrock", "shred"],
+        "type": "electric",
+        "genre": ["metal", "hard rock", "shred"],
         "brand": {
-            "merknaam": "Ibanez",
+            "brandName": "Ibanez",
             "website": "https://www.ibanez.com",
-            "land": "Japan"
+            "country": "Japan",
+            "id": 104,
+            "yearFounded": 1908
         }
     },
     {
         "id": 5,
-        "naam": "Taylor 814ce",
-        "beschrijving": "De Taylor 814ce is een high-end akoestische gitaar die bekend staat om zijn uitgebalanceerde tonen en prachtige afwerking.",
-        "leeftijd": 25,
-        "actief": true,
-        "gebruiksDatum": "1999-01-01",
+        "name": "Taylor 814ce",
+        "description": "The Taylor 814ce is a high-end acoustic guitar known for its balanced tones and beautiful craftsmanship.",
+        "age": 25,
+        "active": true,
+        "usageDate": "1999-01-01",
         "imageURL": "https://example.com/images/taylor_814ce.jpg",
-        "type": "akoestisch",
-        "hobby's": ["folk", "pop", "singer-songwriter"],
+        "type": "acoustic",
+        "genre": ["folk", "pop", "singer-songwriter"],
         "brand": {
-            "merknaam": "Taylor",
+            "brandName": "Taylor",
             "website": "https://www.taylorguitars.com",
-            "land": "Verenigde Staten"
+            "country": "United States",
+            "id": 105,
+            "yearFounded": 1974
         }
     },
     {
         "id": 6,
-        "naam": "PRS Custom 24",
-        "beschrijving": "De PRS Custom 24 is een veelzijdige elektrische gitaar die bekend staat om zijn prachtige design en uitstekende speelbaarheid.",
-        "leeftijd": 38,
-        "actief": true,
-        "gebruiksDatum": "1985-01-01",
+        "name": "PRS Custom 24",
+        "description": "The PRS Custom 24 is a versatile electric guitar known for its beautiful design and excellent playability.",
+        "age": 38,
+        "active": true,
+        "usageDate": "1985-01-01",
         "imageURL": "https://example.com/images/prs_custom_24.jpg",
-        "type": "elektrisch",
-        "hobby's": ["rock", "jazz", "fusion"],
+        "type": "electric",
+        "genre": ["rock", "jazz", "fusion"],
         "brand": {
-            "merknaam": "PRS",
+            "brandName": "PRS",
             "website": "https://www.prsguitars.com",
-            "land": "Verenigde Staten"
+            "country": "United States",
+            "id": 106,
+            "yearFounded": 1985
         }
     },
     {
         "id": 7,
-        "naam": "Yamaha FG800",
-        "beschrijving": "De Yamaha FG800 is een betaalbare en betrouwbare akoestische gitaar die geschikt is voor beginners en gevorderden.",
-        "leeftijd": 10,
-        "actief": true,
-        "gebruiksDatum": "2013-01-01",
+        "name": "Yamaha FG800",
+        "description": "The Yamaha FG800 is an affordable and reliable acoustic guitar suitable for beginners and advanced players.",
+        "age": 10,
+        "active": true,
+        "usageDate": "2013-01-01",
         "imageURL": "https://example.com/images/yamaha_fg800.jpg",
-        "type": "akoestisch",
-        "hobby's": ["pop", "folk", "beginners"],
+        "type": "acoustic",
+        "genre": ["pop", "folk", "beginners"],
         "brand": {
-            "merknaam": "Yamaha",
+            "brandName": "Yamaha",
             "website": "https://www.yamaha.com",
-            "land": "Japan"
+            "country": "Japan",
+            "id": 107,
+            "yearFounded": 1887
         }
     },
     {
         "id": 8,
-        "naam": "ESP E-II Horizon",
-        "beschrijving": "De ESP E-II Horizon is een high-performance elektrische gitaar die populair is onder metal- en hardrockgitaristen.",
-        "leeftijd": 15,
-        "actief": true,
-        "gebruiksDatum": "2008-01-01",
+        "name": "ESP E-II Horizon",
+        "description": "The ESP E-II Horizon is a high-performance electric guitar popular among metal and hard rock guitarists.",
+        "age": 15,
+        "active": true,
+        "usageDate": "2008-01-01",
         "imageURL": "https://example.com/images/esp_eii_horizon.jpg",
-        "type": "elektrisch",
-        "hobby's": ["metal", "hardrock", "shred"],
+        "type": "electric",
+        "genre": ["metal", "hard rock", "shred"],
         "brand": {
-            "merknaam": "ESP",
+            "brandName": "ESP",
             "website": "https://www.espguitars.com",
-            "land": "Japan"
+            "country": "Japan",
+            "id": 108,
+            "yearFounded": 1975
         }
     },
     {
         "id": 9,
-        "naam": "Gretsch G5422T",
-        "beschrijving": "De Gretsch G5422T is een semi-akoestische gitaar die bekend staat om zijn retro design en warme, jazzy tonen.",
-        "leeftijd": 20,
-        "actief": true,
-        "gebruiksDatum": "2003-01-01",
+        "name": "Gretsch G5422T",
+        "description": "The Gretsch G5422T is a semi-acoustic guitar known for its retro design and warm, jazzy tones.",
+        "age": 20,
+        "active": true,
+        "usageDate": "2003-01-01",
         "imageURL": "https://example.com/images/gretsch_g5422t.jpg",
-        "type": "semi-akoestisch",
-        "hobby's": ["jazz", "rockabilly", "blues"],
+        "type": "semi-acoustic",
+        "genre": ["jazz", "rockabilly", "blues"],
         "brand": {
-            "merknaam": "Gretsch",
+            "brandName": "Gretsch",
             "website": "https://www.gretschguitars.com",
-            "land": "Verenigde Staten"
+            "country": "United States",
+            "id": 109,
+            "yearFounded": 1883
         }
     },
     {
         "id": 10,
-        "naam": "Epiphone Casino",
-        "beschrijving": "De Epiphone Casino is een volledig holle elektrische gitaar die populair werd door The Beatles en bekend staat om zijn heldere, resonerende tonen.",
-        "leeftijd": 60,
-        "actief": true,
-        "gebruiksDatum": "1961-01-01",
+        "name": "Epiphone Casino",
+        "description": "The Epiphone Casino is a fully hollow electric guitar popularized by The Beatles and known for its bright, resonant tones.",
+        "age": 60,
+        "active": true,
+        "usageDate": "1961-01-01",
         "imageURL": "https://example.com/images/epiphone_casino.jpg",
-        "type": "elektrisch",
-        "hobby's": ["rock", "blues", "pop"],
+        "type": "electric",
+        "genre": ["rock", "blues", "pop"],
         "brand": {
-            "merknaam": "Epiphone",
+            "brandName": "Epiphone",
             "website": "https://www.epiphone.com",
-            "land": "Verenigde Staten"
+            "country": "United States",
+            "id": 110,
+            "yearFounded": 1873
         }
     }
 ]
