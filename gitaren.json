@@ -25,7 +25,7 @@
     "age": 73,
     "active": true,
     "usageDate": "1950-10-15",
-    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Guitars/refs/heads/main/fenderTele.webp",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/telecasterFender.webp",
     "type": "electric",
     "genre": ["country", "rock", "blues"],
     "brand": {
