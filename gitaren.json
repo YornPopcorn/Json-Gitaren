@@ -17,11 +17,10 @@
       "yearFounded": 1946
     }
   },
-
   {
     "id": 2,
     "name": "Fender Telecaster",
-    "description": "The Fender Telecaster is a legendary electric guitar known for its bright, twangy tone and simple, durable design. It has been a favorite among country, rock, and blues musicians for decades.",
+    "description": "The Fender Telecaster is a legendary electric guitar known for its bright, twangy tone and simple, durable design.",
     "age": 73,
     "active": true,
     "usageDate": "1950-10-15",
@@ -36,7 +35,6 @@
       "yearFounded": 1946
     }
   },
-
   {
     "id": 3,
     "name": "Gibson Les Paul",
@@ -47,6 +45,24 @@
     "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/lesPaulGibson.webp",
     "type": "electric",
     "genre": ["rock", "metal", "blues"],
+    "brand": {
+      "brandName": "Gibson",
+      "website": "https://www.gibson.com",
+      "country": "United States",
+      "id": 103,
+      "yearFounded": 1902
+    }
+  },
+  {
+    "id": 12,
+    "name": "Gibson SG",
+    "description": "The Gibson SG features a distinctive double-cutaway design and is known for its bright, powerful tone.",
+    "age": 62,
+    "active": true,
+    "usageDate": "1961-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Gibson%20SG.webp",
+    "type": "electric",
+    "genre": ["rock", "hard rock", "blues"],
     "brand": {
       "brandName": "Gibson",
       "website": "https://www.gibson.com",
@@ -74,6 +90,24 @@
     }
   },
   {
+    "id": 13,
+    "name": "Martin 000-15M",
+    "description": "The Martin 000-15M is a smaller-bodied all-mahogany acoustic guitar with warm, balanced tones.",
+    "age": 20,
+    "active": true,
+    "usageDate": "2003-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Martin%20000-15M.webp",
+    "type": "acoustic",
+    "genre": ["folk", "blues", "singer-songwriter"],
+    "brand": {
+      "brandName": "Martin",
+      "website": "https://www.martinguitar.com",
+      "country": "United States",
+      "id": 104,
+      "yearFounded": 1833
+    }
+  },
+  {
     "id": 5,
     "name": "Ibanez RG550",
     "description": "The Ibanez RG550 is a popular choice among metal guitarists due to its fast neck and aggressive sound.",
@@ -83,6 +117,24 @@
     "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/rg550Ibanez.webp",
     "type": "electric",
     "genre": ["metal", "hard rock", "shred"],
+    "brand": {
+      "brandName": "Ibanez",
+      "website": "https://www.ibanez.com",
+      "country": "Japan",
+      "id": 105,
+      "yearFounded": 1908
+    }
+  },
+  {
+    "id": 14,
+    "name": "Ibanez JEM",
+    "description": "The Ibanez JEM is Steve Vai's signature model, featuring unique design elements and exceptional playability.",
+    "age": 36,
+    "active": true,
+    "usageDate": "1987-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Ibanez%20JEM.webp",
+    "type": "electric",
+    "genre": ["shred", "rock", "fusion"],
     "brand": {
       "brandName": "Ibanez",
       "website": "https://www.ibanez.com",
@@ -110,6 +162,24 @@
     }
   },
   {
+    "id": 15,
+    "name": "Taylor 210ce",
+    "description": "The Taylor 210ce is a more affordable dreadnought with Taylor's signature playability and tone.",
+    "age": 15,
+    "active": true,
+    "usageDate": "2008-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Taylor%20210ce.webp",
+    "type": "acoustic",
+    "genre": ["folk", "pop", "country"],
+    "brand": {
+      "brandName": "Taylor",
+      "website": "https://www.taylorguitars.com",
+      "country": "United States",
+      "id": 106,
+      "yearFounded": 1974
+    }
+  },
+  {
     "id": 7,
     "name": "PRS Custom 24",
     "description": "The PRS Custom 24 is a versatile electric guitar known for its beautiful design and excellent playability.",
@@ -119,6 +189,24 @@
     "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/custom24PRS.webp",
     "type": "electric",
     "genre": ["rock", "jazz", "fusion"],
+    "brand": {
+      "brandName": "PRS",
+      "website": "https://www.prsguitars.com",
+      "country": "United States",
+      "id": 107,
+      "yearFounded": 1985
+    }
+  },
+  {
+    "id": 16,
+    "name": "PRS SE Standard",
+    "description": "The PRS SE Standard offers the PRS quality at a more affordable price point.",
+    "age": 10,
+    "active": true,
+    "usageDate": "2013-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/PRS%20SE.webp",
+    "type": "electric",
+    "genre": ["rock", "blues", "alternative"],
     "brand": {
       "brandName": "PRS",
       "website": "https://www.prsguitars.com",
@@ -146,6 +234,24 @@
     }
   },
   {
+    "id": 17,
+    "name": "Yamaha Pacifica",
+    "description": "The Yamaha Pacifica is a versatile electric guitar series known for great value and quality.",
+    "age": 30,
+    "active": true,
+    "usageDate": "1993-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Yamaha%20Pacifica.webp",
+    "type": "electric",
+    "genre": ["rock", "blues", "pop"],
+    "brand": {
+      "brandName": "Yamaha",
+      "website": "https://www.yamaha.com",
+      "country": "Japan",
+      "id": 108,
+      "yearFounded": 1887
+    }
+  },
+  {
     "id": 9,
     "name": "ESP E-II Horizon",
     "description": "The ESP E-II Horizon is a high-performance electric guitar popular among metal and hard rock guitarists.",
@@ -155,6 +261,24 @@
     "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/ESP%20E-II%20Horizon.webp",
     "type": "electric",
     "genre": ["metal", "hard rock", "shred"],
+    "brand": {
+      "brandName": "ESP",
+      "website": "https://www.espguitars.com",
+      "country": "Japan",
+      "id": 109,
+      "yearFounded": 1975
+    }
+  },
+  {
+    "id": 18,
+    "name": "ESP LTD EC-1000",
+    "description": "The ESP LTD EC-1000 is a popular Les Paul-style guitar with high-end features at a more affordable price.",
+    "age": 20,
+    "active": true,
+    "usageDate": "2003-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/ESP%20LTD%20EC-1000.webp",
+    "type": "electric",
+    "genre": ["metal", "hard rock", "alternative"],
     "brand": {
       "brandName": "ESP",
       "website": "https://www.espguitars.com",
@@ -182,6 +306,24 @@
     }
   },
   {
+    "id": 19,
+    "name": "Gretsch White Falcon",
+    "description": "The Gretsch White Falcon is an iconic guitar known for its striking appearance and rich tones.",
+    "age": 65,
+    "active": true,
+    "usageDate": "1955-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Gretsch%20White%20Falcon.webp",
+    "type": "semi-acoustic",
+    "genre": ["rock", "jazz", "rockabilly"],
+    "brand": {
+      "brandName": "Gretsch",
+      "website": "https://www.gretschguitars.com",
+      "country": "United States",
+      "id": 110,
+      "yearFounded": 1883
+    }
+  },
+  {
     "id": 11,
     "name": "Epiphone Casino",
     "description": "The Epiphone Casino is a fully hollow electric guitar popularized by The Beatles and known for its bright, resonant tones.",
@@ -191,6 +333,24 @@
     "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Epiphone%20Casino.webp",
     "type": "electric",
     "genre": ["rock", "blues", "pop"],
+    "brand": {
+      "brandName": "Epiphone",
+      "website": "https://www.epiphone.com",
+      "country": "United States",
+      "id": 111,
+      "yearFounded": 1873
+    }
+  },
+  {
+    "id": 20,
+    "name": "Epiphone Les Paul Standard",
+    "description": "The Epiphone Les Paul Standard offers the classic Les Paul sound at a more affordable price point.",
+    "age": 30,
+    "active": true,
+    "usageDate": "1993-01-01",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Epiphone%20Les%20Paul%20Standard.webp",
+    "type": "electric",
+    "genre": ["rock", "blues", "hard rock"],
     "brand": {
       "brandName": "Epiphone",
       "website": "https://www.epiphone.com",
