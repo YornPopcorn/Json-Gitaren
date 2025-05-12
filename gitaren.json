@@ -54,7 +54,7 @@
     }
   },
   {
-    "id": 12,
+    "id": 4,
     "name": "Gibson SG",
     "description": "The Gibson SG features a distinctive double-cutaway design and is known for its bright, powerful tone.",
     "age": 62,
@@ -72,7 +72,7 @@
     }
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Martin D-28",
     "description": "The Martin D-28 is an acoustic guitar known for its powerful, bright sound and is widely used in country and folk music.",
     "age": 85,
@@ -90,7 +90,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 6,
     "name": "Martin 000-15M",
     "description": "The Martin 000-15M is a smaller-bodied all-mahogany acoustic guitar with warm, balanced tones.",
     "age": 20,
@@ -108,7 +108,7 @@
     }
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Ibanez RG550",
     "description": "The Ibanez RG550 is a popular choice among metal guitarists due to its fast neck and aggressive sound.",
     "age": 35,
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 8,
     "name": "Ibanez JEM",
     "description": "The Ibanez JEM is Steve Vai's signature model, featuring unique design elements and exceptional playability.",
     "age": 36,
@@ -144,7 +144,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 9,
     "name": "Taylor 814ce",
     "description": "The Taylor 814ce is a high-end acoustic guitar known for its balanced tones and beautiful craftsmanship.",
     "age": 25,
@@ -162,7 +162,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 10,
     "name": "Taylor 210ce",
     "description": "The Taylor 210ce is a more affordable dreadnought with Taylor's signature playability and tone.",
     "age": 15,
@@ -180,7 +180,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 11,
     "name": "PRS Custom 24",
     "description": "The PRS Custom 24 is a versatile electric guitar known for its beautiful design and excellent playability.",
     "age": 38,
@@ -198,7 +198,7 @@
     }
   },
   {
-    "id": 16,
+    "id": 12,
     "name": "PRS SE Standard",
     "description": "The PRS SE Standard offers the PRS quality at a more affordable price point.",
     "age": 10,
@@ -216,7 +216,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 13,
     "name": "Yamaha FG800",
     "description": "The Yamaha FG800 is an affordable and reliable acoustic guitar suitable for beginners and advanced players.",
     "age": 10,
@@ -234,7 +234,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 14,
     "name": "Yamaha Pacifica",
     "description": "The Yamaha Pacifica is a versatile electric guitar series known for great value and quality.",
     "age": 30,
@@ -252,7 +252,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 15,
     "name": "ESP E-II Horizon",
     "description": "The ESP E-II Horizon is a high-performance electric guitar popular among metal and hard rock guitarists.",
     "age": 15,
@@ -270,7 +270,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 16,
     "name": "ESP LTD EC-1000",
     "description": "The ESP LTD EC-1000 is a popular Les Paul-style guitar with high-end features at a more affordable price.",
     "age": 20,
@@ -288,7 +288,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 17,
     "name": "Gretsch G5422T",
     "description": "The Gretsch G5422T is a semi-acoustic guitar known for its retro design and warm, jazzy tones.",
     "age": 20,
@@ -306,7 +306,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "name": "Gretsch White Falcon",
     "description": "The Gretsch White Falcon is an iconic guitar known for its striking appearance and rich tones.",
     "age": 65,
@@ -324,7 +324,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 19,
     "name": "Epiphone Casino",
     "description": "The Epiphone Casino is a fully hollow electric guitar popularized by The Beatles and known for its bright, resonant tones.",
     "age": 60,
