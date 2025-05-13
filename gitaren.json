@@ -6,7 +6,7 @@
     "age": 67,
     "active": true,
     "usageDate": "1954-10-15",
-    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/fenderStrat.webp",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/Images/fenderStrat.webp",
     "type": "electric",
     "genre": ["blues", "rock", "jazz"],
     "brand": {
