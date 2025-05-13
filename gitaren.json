@@ -60,7 +60,7 @@
     "age": 62,
     "active": true,
     "usageDate": "1961-01-01",
-    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/ref/heads/main/Images/Gibson%20SG.webp",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/Gibson%20SG.webp",
     "type": "electric",
     "genre": ["rock", "hard rock", "blues"],
     "brand": {
