@@ -42,7 +42,7 @@
     "age": 70,
     "active": true,
     "usageDate": "1952-01-01",
-    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/Images/lesPaulGibson.webp",
+    "imageURL": "https://raw.githubusercontent.com/YornPopcorn/Json-Gitaren/refs/heads/main/Images/lesPaulGibson.webp",
     "type": "electric",
     "genre": ["rock", "metal", "blues"],
     "brand": {
